@@ -1,0 +1,39 @@
+.parent{
+    background:#ffffff ;
+    box-sizing: border-box;
+    
+    
+}
+img{
+    max-width: 90%;
+    margin: 20px;
+    text-align: center;
+
+}
+.child{
+    text-align: center;
+}
+.child span{
+    font-size: 30px;
+    color: rgb(114, 110, 110);
+    font-weight: normal;
+    letter-spacing: 2px;
+    display: inline-block;
+    
+} 
+.child strong{
+    font-size: 30px;
+    display: inline-block;
+}
+.child p{
+    font-size: 12px;
+    color: rgba(0, 0, 0, 0.7);
+    text-align: center;
+    
+}
+.child a  {
+    color:black ;
+    text-decoration: underline;
+    font-size: 11px;
+}
+ 
